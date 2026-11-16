@@ -2,7 +2,7 @@
 
 1. **Versión del software (`software.version`)**
    - **Local:** `8.10.0`
-   - **Público:** `8.13.10-SNAPSHOT/6bd250944e/2026-09-25`
+   - **Público:** `8.13.10-SNAPSHOT/`
    - **¿Por qué difiere?** Mi servidor local usa la versión 8.10.0 de HAPI FHIR. El servidor público usa una compilación de desarrollo, identificada por `SNAPSHOT`.
 
 2. **Dirección base del servidor (`implementation.url`)**
