@@ -8,4 +8,4 @@
 2. **Dirección base del servidor (`implementation.url`)**
    - **Local:** `http://localhost:8080/fhir`
    - **Público:** `https://hapi.fhir.org/baseR4`
-   - **¿Por qué difiere?** Mi servidor corre en mi computador y lo consulto mediante `localhost` en el puerto 8080. El servidor público está disponible por HTTPS en el dominio `hapi.fhir.org`.
+   - **¿Por qué difiere?** Mi servidor corre en mi computador y lo consulto mediante `localhost` en el puerto 8080. El servidor público está disponible en el dominio `hapi.fhir.org`.
